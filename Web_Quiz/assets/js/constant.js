@@ -1,6 +1,6 @@
 "use strict"
-const DOMAIN_URL = "https://yourdomain.com/"; //admin panel url
-const JWT_KEY = "set_your_strong_jwt_secret_key";
+const DOMAIN_URL = "http://localhost/QuizOnline_Admin_Panel_7.1.3/PHP%20Code/"; //admin panel url
+const JWT_KEY = "5090520Index@#";
 
 const QUIZ_V = "Quiz(6.0.1)";
 const QUIZ_URL = DOMAIN_URL + "api-v2.php";  //api url
