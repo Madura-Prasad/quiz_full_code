@@ -8,11 +8,11 @@ session_start();
         <?php include('include-css.php'); ?>   
     </head>
     <body class="bg-content-color">
-        <!-- Preloader -->
+        <!-- Preloader 
         <div id="preloader"> 
             <div id="loader-img">
             </div>
-        </div>
+        </div>-->
         <!--  -->
         <?php include('header.php'); ?>  
 
